@@ -14,7 +14,7 @@ public class SpringController {
 	@RequestMapping(value="/greeting")
 	public String greetings()
 	{
-		return message + "test with Gradle";
+		return message + "test with Gradle"; 
 	}
 
 
